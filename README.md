@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif" width="30px">
 
 <!--
 **Rishit-dagli/Rishit-dagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
