@@ -20,6 +20,8 @@ I majorly work with-
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/docker.svg)
 - <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/android-logo.png" height="20px"> ![](https://img.shields.io/badge/%20-Android-brightgreen)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rishit-dagli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 <!--
 **Rishit-dagli/Rishit-dagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
