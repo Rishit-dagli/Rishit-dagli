@@ -1,5 +1,7 @@
 ### Hi there <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif" width="30px">
 
+![](https://img.shields.io/badge/.-Python-blue?logo=python)
+
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
@@ -12,7 +14,7 @@ I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enth
 
 I majorly work with-
 
-- <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python-logo.png" height="20px"> ![](https://img.shields.io/badge/%20-Python-blue)
+- ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python.svg)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/tensorflow.svg)
 - <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/gcp.png" height="20px">  ![](https://img.shields.io/badge/%20-GCP-red)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/javascript.svg)
