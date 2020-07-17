@@ -10,7 +10,7 @@
 I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enthusiast from 
 [Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:.
 
-My top 10 technologies-
+#### My top 10 technologies-
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/c++.png)|
 |---|---|---|---|---|
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/arduino.png)|
