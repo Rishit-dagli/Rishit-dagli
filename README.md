@@ -14,7 +14,7 @@ I majorly work with-
 
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python.png)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/tensorflow.svg)
-- <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/gcp.png" height="20px">  ![](https://img.shields.io/badge/%20-GCP-red)
+- ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/gcp.png)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/javascript.svg)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/node.svg)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/docker.svg)
