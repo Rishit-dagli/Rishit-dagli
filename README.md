@@ -1,4 +1,4 @@
-<img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png"> <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif" width="30px">
+<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png"></a><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif" width="30px">
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
