@@ -12,7 +12,7 @@ I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enth
 
 I majorly work with-
 
-- ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python.svg)
+- ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/python.png)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/tensorflow.svg)
 - <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/gcp.png" height="20px">  ![](https://img.shields.io/badge/%20-GCP-red)
 - ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/javascript.svg)
