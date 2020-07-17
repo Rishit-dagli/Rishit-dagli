@@ -1,7 +1,5 @@
 ### Hi there <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif" width="30px">
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
