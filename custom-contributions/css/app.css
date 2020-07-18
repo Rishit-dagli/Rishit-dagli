@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;800&display=swap");
+
+body {
+  font-family: "Baloo Da 2", cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  user-select: none;
+  height: 90vh;
+}
+
+#header {
+  margin: 50px 0;
+  text-align: left;
+  max-width: 780px;
+  width: 100%;
+}
+
+#action-buttons {
+  margin: 20px 0;
+}
+
+.action-button {
+  appearance: none;
+  padding: 10px 15px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+#reset-activity-btn {
+  background: #ff4b4b;
+  color: #fff;
+}
+
+#create-image-btn {
+  background: #18a055;
+  color: #fff;
+}
+
+.day {
+  transition: all 150ms ease;
+}
