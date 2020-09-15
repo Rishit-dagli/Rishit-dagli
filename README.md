@@ -23,7 +23,7 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 |---|---|---|---|---|
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
 - [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
