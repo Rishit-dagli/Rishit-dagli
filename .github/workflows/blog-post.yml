@@ -14,6 +14,5 @@ jobs:
           commit_message: "Updated readme with the latest blog"
           committer_username: "Rishit-dagli"
           committer_email: "rishit.dagli@gmail.com"
-          max_post_count: 3
+          max_post_count: 5
           feed_list: "https://medium.com/feed/@rishit.dagli"
-          
