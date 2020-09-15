@@ -28,6 +28,8 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 - [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
 - [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
 - [Deploying models to production with TensorFlow model server](https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031?source=rss-e7d740ac1a25------2)
+- [Building Better AI Apps with TF Hub](https://towardsdatascience.com/building-better-ai-apps-with-tf-hub-88716b302265?source=rss-e7d740ac1a25------2)
+- [Solving Overfitting in Neural Nets With Regularization](https://towardsdatascience.com/solving-overfitting-in-neural-nets-with-regularization-301c31a7735f?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
