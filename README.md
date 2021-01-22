@@ -22,11 +22,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Hyperparameter Tuning in Deep Neural Nets by Example](https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://proandroiddev.com/machine-learning-with-android-11-whats-new-1a8d084c7398?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
 - [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
 - [Deploying models to production with TensorFlow model server](https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031?source=rss-e7d740ac1a25------2)
-- [Building Better AI Apps with TF Hub](https://towardsdatascience.com/building-better-ai-apps-with-tf-hub-88716b302265?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
