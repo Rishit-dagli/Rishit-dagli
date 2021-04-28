@@ -26,7 +26,7 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Better Machine Learning Models](https://medium.com/@rishit.dagli/how-to-build-better-machine-learning-models-537a4486d056?source=rss-e7d740ac1a25------2)
+- [How to Build Better Machine Learning Models](https://towardsdatascience.com/how-to-build-better-machine-learning-models-537a4486d056?source=rss-e7d740ac1a25------2)
 - [The Art of Hyperparameter Tuning in Deep Neural Nets by Example](https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://proandroiddev.com/machine-learning-with-android-11-whats-new-1a8d084c7398?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
