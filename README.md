@@ -26,11 +26,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained](https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/)
 - [How to Build Better Machine Learning Models](https://towardsdatascience.com/how-to-build-better-machine-learning-models-537a4486d056?source=rss-e7d740ac1a25------2)
+- [How to Build Better Machine Learning Models](https://www.freecodecamp.org/news/how-to-build-better-machine-learning-models/)
 - [The Art of Hyperparameter Tuning in Deep Neural Nets by Example](https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38?source=rss-e7d740ac1a25------2)
 - [Machine Learning with Android 11: What’s new](https://proandroiddev.com/machine-learning-with-android-11-whats-new-1a8d084c7398?source=rss-e7d740ac1a25------2)
-- [Machine Learning with Android 11: What’s new](https://towardsdatascience.com/machine-learning-with-android-11-whats-new-e8c829e9452?source=rss-e7d740ac1a25------2)
-- [Working with Complex Image data for CNNs](https://medium.com/@rishit.dagli/working-with-complex-image-data-for-cnns-187fb4526893?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
