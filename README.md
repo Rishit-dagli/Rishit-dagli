@@ -26,11 +26,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
 - [How to Monitor Machine Learning Projects on Your Mobile Device📱](https://www.freecodecamp.org/news/how-to-monitor-ml-projects-on-mobile-devices/)
 - [Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained](https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/)
 - [How to Build Better Machine Learning Models](https://towardsdatascience.com/how-to-build-better-machine-learning-models-537a4486d056?source=rss-e7d740ac1a25------2)
 - [How to Build Better Machine Learning Models](https://www.freecodecamp.org/news/how-to-build-better-machine-learning-models/)
-- [The Art of Hyperparameter Tuning in Deep Neural Nets by Example](https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
