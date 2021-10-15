@@ -24,7 +24,7 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 |---|---|---|---|---|
 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
 
-### Latest Blog posts
+### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
 - [How to Monitor Machine Learning Projects on Your Mobile Device📱](https://www.freecodecamp.org/news/how-to-monitor-ml-projects-on-mobile-devices/)
