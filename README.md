@@ -26,11 +26,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are Graph Neural Networks? How GNNs Work, Explained with Examples](https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/)
-- [How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
-- [How to Monitor Machine Learning Projects on Your Mobile Device📱](https://www.freecodecamp.org/news/how-to-monitor-ml-projects-on-mobile-devices/)
-- [Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained](https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/)
-- [How to Build Better Machine Learning Models](https://www.freecodecamp.org/news/how-to-build-better-machine-learning-models/)
+- [Skewness and Kurtosis — Positively Skewed and Negatively Skewed Distributions in Statistics…](https://medium.com/@rishit.dagli/skewness-and-kurtosis-positively-skewed-and-negatively-skewed-distributions-in-statistics-95515891439a?source=rss-e7d740ac1a25------2)
+- [How to Monitor Machine Learning Projects on Your Mobile Device](https://medium.com/@rishit.dagli/how-to-monitor-machine-learning-projects-on-your-mobile-device-9f9ed1f9e38b?source=rss-e7d740ac1a25------2)
+- [My first in-person KubeCon + CloudNativeCon](https://medium.com/@rishit.dagli/my-first-in-person-kubecon-cloudnativecon-1f37e9405b1a?source=rss-e7d740ac1a25------2)
+- [What Are Graph Neural Networks? How GNNs Work, Explained with Examples](https://medium.com/@rishit.dagli/graph-neural-networks-4fb07b66b7da?source=rss-e7d740ac1a25------2)
+- [How to Start an Open Source Project on GitHub — Tips from Building My Trending Repo](https://medium.com/@rishit.dagli/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo-3fa65d696377?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
