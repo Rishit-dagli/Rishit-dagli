@@ -26,11 +26,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubeflow Notebooks: ML Experimentation Made Easier — Part 2](https://medium.com/@rishit.dagli/kubeflow-notebooks-ml-experimentation-made-easier-part-2-117a45dec52c?source=rss-e7d740ac1a25------2)
+- [Kubeflow: Machine Learning on Kubernetes — Part 1](https://medium.com/@rishit.dagli/kubeflow-machine-learning-on-kubernetes-part-1-8f657115d0e9?source=rss-e7d740ac1a25------2)
 - [Skewness and Kurtosis — Positively Skewed and Negatively Skewed Distributions in Statistics…](https://medium.com/@rishit.dagli/skewness-and-kurtosis-positively-skewed-and-negatively-skewed-distributions-in-statistics-95515891439a?source=rss-e7d740ac1a25------2)
 - [How to Monitor Machine Learning Projects on Your Mobile Device](https://medium.com/@rishit.dagli/how-to-monitor-machine-learning-projects-on-your-mobile-device-9f9ed1f9e38b?source=rss-e7d740ac1a25------2)
 - [My first in-person KubeCon + CloudNativeCon](https://medium.com/@rishit.dagli/my-first-in-person-kubecon-cloudnativecon-1f37e9405b1a?source=rss-e7d740ac1a25------2)
-- [What Are Graph Neural Networks? How GNNs Work, Explained with Examples](https://medium.com/@rishit.dagli/graph-neural-networks-4fb07b66b7da?source=rss-e7d740ac1a25------2)
-- [How to Start an Open Source Project on GitHub — Tips from Building My Trending Repo](https://medium.com/@rishit.dagli/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo-3fa65d696377?source=rss-e7d740ac1a25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
