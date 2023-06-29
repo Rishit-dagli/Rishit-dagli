@@ -26,11 +26,11 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Review of Domain Generalization using Causal Matching: Causal Learning Series Part 1](https://medium.com/@rishit.dagli/review-of-domain-generalization-using-causal-matching-causal-learning-series-part-1-d93fa3d35250?source=rss-e7d740ac1a25------2)
-- [How to Use GitHub Super Linter in Your Projects](https://medium.com/@rishit.dagli/how-to-use-github-super-linter-in-your-projects-25b35fade7fd?source=rss-e7d740ac1a25------2)
-- [Kubeflow Notebooks: ML Experimentation Made Easier — Part 2](https://medium.com/@rishit.dagli/kubeflow-notebooks-ml-experimentation-made-easier-part-2-117a45dec52c?source=rss-e7d740ac1a25------2)
-- [Kubeflow: Machine Learning on Kubernetes — Part 1](https://medium.com/@rishit.dagli/kubeflow-machine-learning-on-kubernetes-part-1-8f657115d0e9?source=rss-e7d740ac1a25------2)
-- [Skewness and Kurtosis — Positively Skewed and Negatively Skewed Distributions in Statistics…](https://medium.com/@rishit.dagli/skewness-and-kurtosis-positively-skewed-and-negatively-skewed-distributions-in-statistics-95515891439a?source=rss-e7d740ac1a25------2)
+- [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
+- [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
+- [Review of Domain Generalization using Causal Matching: Causal Learning Series](https://rishit-dagli.github.io/2023/01/20/domain-generalization-using-causal-matching.html)
+- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
+- [How to Use GitHub Super Linter in Your Projects](https://rishit-dagli.github.io/2022/08/30/github-super-linter.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
