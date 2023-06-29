@@ -15,5 +15,6 @@ jobs:
           committer_username: "Rishit-dagli"
           committer_email: "rishit.dagli@gmail.com"
           max_post_count: 5
-          feed_list: "https://medium.com/@rishit.dagli/feed"
+          feed_list: "https://rishit-dagli.github.io/feed"
+#           feed_list: "https://medium.com/@rishit.dagli/feed"
 #           feed_list: "https://www.freecodecamp.org/news/author/rishit_dagli/rss/"
