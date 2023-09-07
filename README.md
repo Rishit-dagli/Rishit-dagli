@@ -1,6 +1,6 @@
 <!---
 Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
+or use it.
 -->
 
 <a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
@@ -13,16 +13,7 @@ or use it. It helps me a lot.
 [![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
 
-> Note: This is not my real contribution graph :laughing:
-
-Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enthusiast from 
-[Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:
-
-### My top 10 technologies
-
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic)|![](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/-Android-black?logo=android&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)|
+I am a CS Freshman at [The University of Toronto](https://web.cs.toronto.edu/). I love researching and working with Machine Learning, especially Computer Vision. Coming from the software and robotics background, I contribute extensively to/ maintain popular open-source projects like [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Kubernetes](https://kubernetes.io/), [Kubeflow](https://www.kubeflow.org/), [PapersWithCode](https://paperswithcode.com/), [freeCodeCamp](https://www.freecodecamp.org/) among others. I also love building open-source projects (usually related to Kubernetes and Machine Learning), some of which have been pretty popular
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
