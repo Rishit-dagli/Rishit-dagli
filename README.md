@@ -12,11 +12,11 @@ I am a CS Freshman at [The University of Toronto](https://web.cs.toronto.edu/). 
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEE-2-SOUND🔉: Zero-Shot Spatial Environment-to-Spatial Sound](https://rishit-dagli.github.io/2024/06/18/s2s.html)
 - [An Intuitive Look at the Dynamics of SGD](https://rishit-dagli.github.io/2024/01/01/sgd.html)
 - [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
 - [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
 - [Review of Domain Generalization using Causal Matching: Causal Learning Series](https://rishit-dagli.github.io/2023/01/20/domain-generalization-using-causal-matching.html)
-- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--- 
