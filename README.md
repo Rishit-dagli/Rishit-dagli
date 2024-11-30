@@ -3,8 +3,6 @@ Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
 
-<!---<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>-->
- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
 [![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
 
@@ -19,19 +17,4 @@ I am a CS Freshman at [The University of Toronto](https://web.cs.toronto.edu/). 
 - [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
 <!-- BLOG-POST-LIST:END -->
 
-<!--- 
-### Tech communities
-
-|Organizer|Organizer|Mentor|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
--->
-
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
-
-<!---
-If you like what I do and want me to build more such projects, maybe considering supporting me on PayPal or buying me a coffee :pleading_face:
-
-<a href="http://paypal.me/alpadagli" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a> &nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/rishitdagli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
--->
