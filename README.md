@@ -5,11 +5,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Collection of 3D Reconstruction Scenes and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
 - [SEE-2-SOUND🔉: Zero-Shot Spatial Environment-to-Spatial Sound](https://rishit-dagli.github.io/2024/06/18/s2s.html)
 - [An Intuitive Look at the Dynamics of SGD](https://rishit-dagli.github.io/2024/01/01/sgd.html)
 - [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
 - [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
-- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 [![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
