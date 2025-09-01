@@ -6,5 +6,5 @@
 - [Why Does SGD Love Flat Minima?](https://rishit-dagli.github.io/2024/01/01/sgd.html)
 - [#BIS-Hard but Not Impossible: Ferromagnetic Potts Model on Expanders](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
 - [Compression Unlocks Statistical Learning Secrets](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
-- [The Conductor of Two Naturals is the largest number which cannot be written as mb+nc](https://rishit-dagli.github.io/2021/11/04/conductor-of-two-naturals.html)
+- [What Is the Largest Integer Not of the Form mb+nc?](https://rishit-dagli.github.io/2021/11/04/conductor-of-two-naturals.html)
 <!-- BLOG-POST-LIST:END -->
