@@ -2,9 +2,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
-- [An Intuitive Look at the Dynamics of SGD](https://rishit-dagli.github.io/2024/01/01/sgd.html)
-- [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
-- [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
+- [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
+- [Why Does SGD Love Flat Minima?](https://rishit-dagli.github.io/2024/01/01/sgd.html)
+- [#BIS-Hard but Not Impossible: Ferromagnetic Potts Model on Expanders](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
+- [Compression Unlocks Statistical Learning Secrets](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
 - [The Conductor of Two Naturals is the largest number which cannot be written as mb+nc](https://rishit-dagli.github.io/2021/11/04/conductor-of-two-naturals.html)
 <!-- BLOG-POST-LIST:END -->
