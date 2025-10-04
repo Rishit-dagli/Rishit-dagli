@@ -2,9 +2,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Geometry of Motion](https://rishit-dagli.github.io/2025/10/03/geometry-of-motion.html)
 - [Hopefully the Most Gentle Introduction to Simulation](https://rishit-dagli.github.io/2025/09/18/simulation.html)
 - [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
 - [Why Does SGD Love Flat Minima?](https://rishit-dagli.github.io/2024/01/01/sgd.html)
 - [#BIS-Hard but Not Impossible: Ferromagnetic Potts Model on Expanders](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
-- [Compression Unlocks Statistical Learning Secrets](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
 <!-- BLOG-POST-LIST:END -->
