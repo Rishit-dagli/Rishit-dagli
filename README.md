@@ -2,9 +2,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/2026/02/07/general-kaiming.html)
 - [Geometry of Motion](https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html)
 - [Simulating Stuff](https://rishit-dagli.github.io/2025/09/27/simulation.html)
 - [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
 - [Why Does SGD Love Flat Minima?](https://rishit-dagli.github.io/2024/01/01/sgd.html)
-- [#BIS-Hard but Not Impossible: Ferromagnetic Potts Model on Expanders](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
 <!-- BLOG-POST-LIST:END -->
