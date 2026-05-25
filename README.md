@@ -2,7 +2,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Hypothesis from Data?](https://rishit-dagli.github.io/2026/05/24/induction.html)
+- [How to Generate Hypotheses from Data?](https://rishit-dagli.github.io/2026/05/24/induction.html)
 - [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/2026/02/07/general-kaiming.html)
 - [Geometry of Motion](https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html)
 - [Simulating Stuff](https://rishit-dagli.github.io/2025/09/27/simulation.html)
