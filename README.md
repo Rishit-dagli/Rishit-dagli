@@ -2,9 +2,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Hypotheses from Data?](https://rishit-dagli.github.io/2026/05/24/induction.html)
-- [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/2026/02/07/general-kaiming.html)
-- [Geometry of Motion](https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html)
-- [Simulating Stuff](https://rishit-dagli.github.io/2025/09/27/simulation.html)
-- [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
+- [How to Generate Hypotheses from Data?](https://rishit-dagli.github.io/induction/)
+- [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/general-kaiming/)
+- [Geometry of Motion](https://rishit-dagli.github.io/geometry-of-motion/)
+- [Simulating Stuff](https://rishit-dagli.github.io/simulation/)
+- [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/nerf-gs-datasets/)
 <!-- BLOG-POST-LIST:END -->
