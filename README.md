@@ -2,9 +2,9 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A thought experiment on the limits of Language Modeling](https://rishit-dagli.github.io/lm-limits/)
 - [How to Generate Hypotheses from Data?](https://rishit-dagli.github.io/induction/)
 - [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/general-kaiming/)
 - [Geometry of Motion](https://rishit-dagli.github.io/geometry-of-motion/)
 - [Simulating Stuff](https://rishit-dagli.github.io/simulation/)
-- [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/nerf-gs-datasets/)
 <!-- BLOG-POST-LIST:END -->
