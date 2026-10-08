@@ -2,7 +2,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A thought experiment on the limits of Language Modeling](https://rishit-dagli.github.io/lm-limits/)
+- [A Thought Experiment on the Limits of Language Modeling](https://rishit-dagli.github.io/lm-limits/)
 - [How to Generate Hypotheses from Data?](https://rishit-dagli.github.io/induction/)
 - [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/general-kaiming/)
 - [Geometry of Motion](https://rishit-dagli.github.io/geometry-of-motion/)
